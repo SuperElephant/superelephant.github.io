@@ -68,7 +68,7 @@ And then execute:
 ```console
 $ bundle update jekyll-theme-chirpy
 ```
-asdasdasdasdasd
+
 ## Documentation
 
 See the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
