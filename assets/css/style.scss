@@ -8,3 +8,12 @@
 #sidebar #avatar>a{
     border-radius: 30%;
 }
+html:not([mode]), html[mode=light] {
+        --sidebar-bg:radial-gradient(
+            circle,
+            #001475 0%,
+            rgba(35, 37, 46, 1) 100%);
+}
+#sidebar .site-title a {
+    color: rgba(255,255,255,1);
+}
