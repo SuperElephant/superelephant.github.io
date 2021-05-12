@@ -8,7 +8,7 @@
 #sidebar #avatar>a{
     border-radius: 30%;
 }
-@mixin light-scheme {
+ html[mode=light] {
         --sidebar-bg:radial-gradient(
             circle,
             #001475 0%,
